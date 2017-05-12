@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Classes</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="choose_your_picture">Choose Your Picture</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="title_activity_home">Classes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="class_1">Class 1</string>
+    <string name="location">Location</string>
+    <string name="payment_per_class">Payment Per Class</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+</resources>
